@@ -4,6 +4,9 @@
 
 successfully implemented a unique 8-bit hashing algorithm in MIPS assembly language using the MARS IDE. The project aimed to provide hands-on experience with MIPS assembly programming concepts while demonstrating the application of hashing techniques.
 
+![image](https://github.com/user-attachments/assets/14e0fe84-130f-45c4-a6d1-f1dd39771080)
+
+
 **Implementation**
 
 The implemented hashing algorithm processes a 32-bit input word by:
@@ -29,7 +32,7 @@ The implemented hashing algorithm has been thoroughly tested with various input 
 
 This project successfully demonstrates a practical application of MIPS assembly programming by implementing a custom 8-bit hashing algorithm. The project provides valuable insights into assembly language programming techniques and the principles of hashing algorithms.
 
-**Further Improvements**
+**Improvements**
 
 * **Performance Optimization:** Explore further optimization techniques within the MIPS assembly environment to enhance the program's execution speed.
 * **Error Handling:** Implement robust error handling mechanisms to gracefully handle invalid input values or unexpected conditions.
